@@ -1,2 +1,2 @@
-# Individual Project
+# ASyMphony
 
