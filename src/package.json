@@ -19,12 +19,14 @@
     "tailwind-merge": "^3.5.0"
   },
   "devDependencies": {
+    "@catppuccin/daisyui": "^2.1.1",
     "@catppuccin/tailwindcss": "^1.0.0",
     "@lezer/generator": "^1.8.0",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "daisyui": "^5.7.22",
     "eslint": "^9",
     "eslint-config-next": "16.1.6",
     "tailwindcss": "^4",
